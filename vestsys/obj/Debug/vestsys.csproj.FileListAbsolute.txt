@@ -1,0 +1,170 @@
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\ApplicationInsights.config
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\roslyn\csc.exe
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\roslyn\vbc.exe
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\roslyn\VBCSCompiler.exe
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\vestsys.dll.config
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\vestsys.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\vestsys.pdb
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Antlr3.Runtime.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\EntityFramework.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\EntityFramework.SqlServer.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Microsoft.AI.Web.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Microsoft.ApplicationInsights.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Newtonsoft.Json.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Ninject.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Net.Http.Formatting.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.Helpers.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.Http.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.Http.WebHost.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.Mvc.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.Optimization.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.Razor.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.WebPages.Deployment.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.WebPages.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.WebPages.Razor.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\WebGrease.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\EntityFramework.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\EntityFramework.SqlServer.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Microsoft.AI.Web.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Microsoft.ApplicationInsights.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Ninject.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Net.Http.Formatting.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.Http.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.Http.WebHost.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.Helpers.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.Mvc.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.Optimization.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.Razor.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.WebPages.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.WebPages.Deployment.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\System.Web.WebPages.Razor.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Antlr3.Runtime.pdb
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\bin\Newtonsoft.Json.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\obj\Debug\vestsys.Migrations.asfbn.resources
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\obj\Debug\vestsys.csproj.GenerateResource.Cache
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\obj\Debug\vestsys.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\obj\Debug\vestsys.pdb
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\vestsys\obj\Debug\vestsys.csprojResolveAssemblyReference.cache
+C:\Projects\vestsys\vestsys\bin\ApplicationInsights.config
+C:\Projects\vestsys\vestsys\bin\roslyn\csc.exe
+C:\Projects\vestsys\vestsys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\vestsys\vestsys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Collections.Immutable.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Reflection.Metadata.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\vbc.exe
+C:\Projects\vestsys\vestsys\bin\roslyn\VBCSCompiler.exe
+C:\Projects\vestsys\vestsys\bin\roslyn\VBCSCompiler.exe.config
+C:\Projects\vestsys\vestsys\bin\vestsys.dll.config
+C:\Projects\vestsys\vestsys\bin\vestsys.dll
+C:\Projects\vestsys\vestsys\bin\vestsys.pdb
+C:\Projects\vestsys\vestsys\bin\Antlr3.Runtime.dll
+C:\Projects\vestsys\vestsys\bin\EntityFramework.dll
+C:\Projects\vestsys\vestsys\bin\EntityFramework.SqlServer.dll
+C:\Projects\vestsys\vestsys\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Projects\vestsys\vestsys\bin\Microsoft.AI.DependencyCollector.dll
+C:\Projects\vestsys\vestsys\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Projects\vestsys\vestsys\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Projects\vestsys\vestsys\bin\Microsoft.AI.Web.dll
+C:\Projects\vestsys\vestsys\bin\Microsoft.AI.WindowsServer.dll
+C:\Projects\vestsys\vestsys\bin\Microsoft.ApplicationInsights.dll
+C:\Projects\vestsys\vestsys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Projects\vestsys\vestsys\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\vestsys\vestsys\bin\Newtonsoft.Json.dll
+C:\Projects\vestsys\vestsys\bin\Ninject.dll
+C:\Projects\vestsys\vestsys\bin\System.Net.Http.Formatting.dll
+C:\Projects\vestsys\vestsys\bin\System.Web.Helpers.dll
+C:\Projects\vestsys\vestsys\bin\System.Web.Http.dll
+C:\Projects\vestsys\vestsys\bin\System.Web.Http.WebHost.dll
+C:\Projects\vestsys\vestsys\bin\System.Web.Mvc.dll
+C:\Projects\vestsys\vestsys\bin\System.Web.Optimization.dll
+C:\Projects\vestsys\vestsys\bin\System.Web.Razor.dll
+C:\Projects\vestsys\vestsys\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\vestsys\vestsys\bin\System.Web.WebPages.dll
+C:\Projects\vestsys\vestsys\bin\System.Web.WebPages.Razor.dll
+C:\Projects\vestsys\vestsys\bin\WebGrease.dll
+C:\Projects\vestsys\vestsys\bin\EntityFramework.xml
+C:\Projects\vestsys\vestsys\bin\EntityFramework.SqlServer.xml
+C:\Projects\vestsys\vestsys\bin\Microsoft.AI.DependencyCollector.xml
+C:\Projects\vestsys\vestsys\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Projects\vestsys\vestsys\bin\Microsoft.AI.Web.xml
+C:\Projects\vestsys\vestsys\bin\Microsoft.AI.WindowsServer.xml
+C:\Projects\vestsys\vestsys\bin\Microsoft.ApplicationInsights.xml
+C:\Projects\vestsys\vestsys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Projects\vestsys\vestsys\bin\Ninject.xml
+C:\Projects\vestsys\vestsys\bin\System.Net.Http.Formatting.xml
+C:\Projects\vestsys\vestsys\bin\System.Web.Http.xml
+C:\Projects\vestsys\vestsys\bin\System.Web.Http.WebHost.xml
+C:\Projects\vestsys\vestsys\bin\System.Web.Helpers.xml
+C:\Projects\vestsys\vestsys\bin\System.Web.Mvc.xml
+C:\Projects\vestsys\vestsys\bin\System.Web.Optimization.xml
+C:\Projects\vestsys\vestsys\bin\System.Web.Razor.xml
+C:\Projects\vestsys\vestsys\bin\System.Web.WebPages.xml
+C:\Projects\vestsys\vestsys\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\vestsys\vestsys\bin\System.Web.WebPages.Razor.xml
+C:\Projects\vestsys\vestsys\bin\Antlr3.Runtime.pdb
+C:\Projects\vestsys\vestsys\bin\Newtonsoft.Json.xml
+C:\Projects\vestsys\vestsys\obj\Debug\vestsys.csprojResolveAssemblyReference.cache
+C:\Projects\vestsys\vestsys\obj\Debug\vestsys.dll
+C:\Projects\vestsys\vestsys\obj\Debug\vestsys.pdb
+C:\Projects\vestsys\vestsys\bin\roslyn\csc.exe.config
+C:\Projects\vestsys\vestsys\bin\roslyn\csc.rsp
+C:\Projects\vestsys\vestsys\bin\roslyn\csi.exe
+C:\Projects\vestsys\vestsys\bin\roslyn\csi.exe.config
+C:\Projects\vestsys\vestsys\bin\roslyn\csi.rsp
+C:\Projects\vestsys\vestsys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.AppContext.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Console.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Diagnostics.Process.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.IO.Compression.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.IO.FileSystem.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.IO.Pipes.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Security.AccessControl.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Security.Claims.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Threading.Thread.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.ValueTuple.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Xml.XPath.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Projects\vestsys\vestsys\bin\roslyn\vbc.exe.config
+C:\Projects\vestsys\vestsys\bin\roslyn\vbc.rsp
+C:\Projects\vestsys\vestsys\obj\Debug\vestsys.Migrations.dasfsasf.resources
+C:\Projects\vestsys\vestsys\obj\Debug\vestsys.csproj.GenerateResource.Cache

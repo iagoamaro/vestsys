@@ -1,0 +1,92 @@
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\ApplicationInsights.config
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\roslyn\csc.exe
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\roslyn\vbc.exe
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\TestVestsys.dll.config
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\TestVestsys.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\TestVestsys.pdb
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\EntityFramework.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\vestsys.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Optimization.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Mvc.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Http.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\Ninject.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Razor.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Web.WebPages.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\Newtonsoft.Json.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\vestsys.pdb
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\EntityFramework.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Optimization.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Mvc.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Http.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\Ninject.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Razor.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Web.WebPages.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\Newtonsoft.Json.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\obj\Debug\TestVestsys.csprojResolveAssemblyReference.cache
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\obj\Debug\TestVestsys.dll
+C:\Users\iago.martins\Documents\Visual Studio 2015\Projects\vestsys\TestVestsys\obj\Debug\TestVestsys.pdb
+C:\Projects\vestsys\TestVestsys\bin\Debug\ApplicationInsights.config
+C:\Projects\vestsys\TestVestsys\bin\Debug\roslyn\csc.exe
+C:\Projects\vestsys\TestVestsys\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Projects\vestsys\TestVestsys\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Projects\vestsys\TestVestsys\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\roslyn\vbc.exe
+C:\Projects\vestsys\TestVestsys\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Projects\vestsys\TestVestsys\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Projects\vestsys\TestVestsys\bin\Debug\TestVestsys.dll.config
+C:\Projects\vestsys\TestVestsys\bin\Debug\TestVestsys.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\TestVestsys.pdb
+C:\Projects\vestsys\TestVestsys\bin\Debug\EntityFramework.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\vestsys.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Optimization.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Mvc.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Http.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\Ninject.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Razor.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Web.WebPages.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Net.Http.Formatting.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Projects\vestsys\TestVestsys\bin\Debug\vestsys.pdb
+C:\Projects\vestsys\TestVestsys\bin\Debug\EntityFramework.xml
+C:\Projects\vestsys\TestVestsys\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Optimization.xml
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Mvc.xml
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Http.xml
+C:\Projects\vestsys\TestVestsys\bin\Debug\Ninject.xml
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Web.Razor.xml
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Web.WebPages.xml
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Net.Http.Formatting.xml
+C:\Projects\vestsys\TestVestsys\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\vestsys\TestVestsys\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Projects\vestsys\TestVestsys\obj\Debug\TestVestsys.csprojResolveAssemblyReference.cache
+C:\Projects\vestsys\TestVestsys\obj\Debug\TestVestsys.dll
+C:\Projects\vestsys\TestVestsys\obj\Debug\TestVestsys.pdb

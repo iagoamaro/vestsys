@@ -1,0 +1,56 @@
+﻿@model IEnumerable<vestsys.Models.Entities.Curso>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Criar Novo", "Inserir")
+</p>
+<table class="table table-hover">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.vestibular.descVest)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.descricao)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.numeroVaga)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.idVestibular)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.teste)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.vestibular.descVest)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.descricao)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.numeroVaga)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.idVestibular)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.teste)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Editar", new { id=item.idCurso }) |
+            @Html.ActionLink("Deletar", "Deletar", new { id=item.idCurso })
+        </td>
+    </tr>
+}
+
+</table>

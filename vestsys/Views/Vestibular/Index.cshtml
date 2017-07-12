@@ -1,0 +1,51 @@
+﻿@model IEnumerable<vestsys.Models.Entities.Vestibular>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Criar Novo", "Inserir")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.descVest)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dataIni)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dataFim)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.dataProva)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.descVest)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dataIni)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dataFim)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.dataProva)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Inserir", new { id=item.idVestibular }) |
+            @Html.ActionLink("Details", "Details", new { id=item.idVestibular }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.idVestibular })
+        </td>
+    </tr>
+}
+
+</table>
